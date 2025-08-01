@@ -14,7 +14,6 @@ A fun and enhanced version of the classic **Tic Tac Toe** game built using **Rea
 
 ---
 
-
 ## 🛠️ How to Run Locally
 
 1. Clone the repository:
@@ -27,12 +26,21 @@ A fun and enhanced version of the classic **Tic Tac Toe** game built using **Rea
    ```
 
 2. Navigate into the folder:
-   cd tic-tac-toe-react
-   Install dependencies:
+
+```bash
+  cd tic-tac-toe-react
+  Install dependencies:
+```
 
 3. Install dependencies:
-   npm install
-   Start the development server:
+
+```bash
+  npm install
+  Start the development server:
+```
 
 4. Start the development server:
-   npm run dev
+
+```bash
+  npm run dev
+```
