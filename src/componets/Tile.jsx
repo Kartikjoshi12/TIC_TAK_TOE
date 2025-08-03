@@ -1,4 +1,4 @@
-function Cell ({className,value,onclick,playerTurn}) {
+function Tile ({className,value,onclick,playerTurn}) {
 
   let hoverclass = null;
   if(value==null && playerTurn!= null){
@@ -13,4 +13,4 @@ function Cell ({className,value,onclick,playerTurn}) {
  
 };
 
-export default Cell;
+export default Tile;
