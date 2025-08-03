@@ -8,11 +8,13 @@ const Board = ({ tiles, onTileClick, playerTurn,strikeClass }) => {
         onclick={() => onTileClick(0)}
         value={tiles[0]}
         className="right-border bottom-border"
+        // ggg
       />
       <Tile
         playerTurn={playerTurn}
         onclick={() => onTileClick(1)}
         value={tiles[1]}
+        
         className="right-border bottom-border"
       />
       <Tile
